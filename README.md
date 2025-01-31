@@ -31,8 +31,8 @@
 
 Run the program in the command line:
 
-```bash
-python moneyx.py
+   ```bash
+   python moneyx.py
 
 Follow the on-screen instructions to convert currencies.
 
