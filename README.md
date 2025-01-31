@@ -20,19 +20,21 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/MoneyX.git
+   ```
 
 2. Install required dependencies:
    ```bash
    pip install -r requirements.txt
+   ```
 
 3. (Optional) Set up an `.env` file with your API keys if required by the service.
 
 ## Usage
 
 Run the program in the command line:
-
    ```bash
    python moneyx.py
+   ```
 
 Follow the on-screen instructions to convert currencies.
 
