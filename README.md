@@ -19,7 +19,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/MoneyX.git
+   git clone https://github.com/MykytaFilin/MoneyX.git
    ```
 
 2. Install required dependencies:
